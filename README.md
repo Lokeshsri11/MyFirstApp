@@ -4,8 +4,7 @@ This is a simple Todo app built using React Native and Expo Go. The app provides
 
 ## Features
 
-- **Add New Tasks:** Easily add new tasks with a description to keep track of your to-dos.![11](https://github.com/Lokeshsri11/My_First_Native_App/assets/93934416/3dab7210-c71e-4fe7-be72-dab6ce406d02)
-
+- **Add New Tasks:** Easily add new tasks with a description to keep track of your to-dos.
 - **Mark Tasks as Complete:** Mark tasks as complete to keep track of your progress.
 - **Delete Tasks:** Remove completed or unnecessary tasks from the list.
 
@@ -30,6 +29,7 @@ The Todo app is built using the following technologies:
 - JavaScript: The programming language used for building the app's functionality.
 
 
-![ScreenShot](11.png)
+![ScreenShot](https://github.com/Lokeshsri11/My_First_Native_App/assets/93934416/3dab7210-c71e-4fe7-be72-dab6ce406d02)
+
 
 
