@@ -29,6 +29,6 @@ The Todo app is built using the following technologies:
 - JavaScript: The programming language used for building the app's functionality.
 
 
-![ScreenShot](/home/lokesh/Loki/My_First_Native_App/assets/11.png)
+![ScreenShot](11.png)
 
 
